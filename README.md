@@ -28,4 +28,4 @@ Some modpacks that use Mythic Metals:
 See [the Credits file in the repo](CREDITS.md), as it contains a shoutout to everyone who has worked on the project!  
 
 ## What's the deal with this fork?
-Mostly, practice. But the end goal is to take a couple of special weapons and make them look (and feel) a bit more special. Possibly eventually turning this into a separate mod, But for now, it's simple sprite swaps.
+Mostly, practice. But the end goal is to take a couple of special weapons and make them look (and feel) a bit more special. Possibly eventually turning this into a separate mod, but for now, it's simple sprite swaps.
