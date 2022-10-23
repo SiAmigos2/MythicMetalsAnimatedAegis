@@ -2,7 +2,7 @@
   "attributes": {
     "attack_range": 2.5,
     "two_handed": true,
-    "pose": "bettercombat:pose_two_handed_sword",
+    "pose": "bettercombat:pose_two_handed_katana",
     "attacks": [
       {
         "hitbox": "HORIZONTAL_PLANE",
